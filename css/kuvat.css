@@ -1,8 +1,9 @@
-
 .imge {
   width: 750px;
-  height: 500px;
+  height: 400px;
   margin: 10px;
+  object-fit: cover;
+
 }
  .kuvakokoelma {
     display: flex;
